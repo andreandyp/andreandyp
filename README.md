@@ -1,16 +1,17 @@
-### Hi there 👋
+## 😄 ¡Hola!
 
-<!--
-**andreandyp/andreandyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es André Michel, soy desarrollador JavaScript Full Stack y desarrollador Android.
 
-Here are some ideas to get you started:
+### 👨‍💻 Actualmente desarrollando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Plataforma-concept](https://github.com/andreandyp/plataforma-concept)
+
+### ✍ Me gusta escribir de vez en cuando en:
+* [DEV](https://dev.to/andreandyp)
+* [Medium](https://medium.com/@andreandyp)
+
+### 📧 ¡Contáctame!
+
+* [E-mail](mailto:andreandyp@outlook.com)
+* [Twitter](https://twitter.com/andreandyp)
+* [LinkedIn](https://www.linkedin.com/in/andreandyp/)
