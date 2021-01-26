@@ -10,7 +10,7 @@ Desarrollador Full Stack JavaScript | Desarrollador Android. | Con experiencia t
 * [Dias](https://github.com/andreandyp/dias): app de Android creada con Kotlin y Android Jetpack.
 
 ## ✍ Me gusta escribir de vez en cuando en:
-* [Mi blog personal](blog.andreandyp.com)
+* [Mi blog personal](https://blog.andreandyp.com)
 * [Medium](https://medium.com/@andreandyp)
 * [DEV](https://dev.to/andreandyp)
 
