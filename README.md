@@ -7,7 +7,7 @@ Desarrollador Android. | Desarrollador Full Stack JavaScript | Con experiencia t
 ## 👨‍💻 Actualmente desarrollando:
 
 * Fuegograma: app de Android creada con Kotlin y Android Jetpack.
-* * [Ludwing.com.mx](http://www.ludwing.com.mx): web app creada con el stack MEVN (MongoDB, Express, Vue.js y Node.js)
+* [Ludwing.com.mx](http://www.ludwing.com.mx): web app creada con el stack MEVN (MongoDB, Express, Vue.js y Node.js).
 * [Plataforma-concept](https://github.com/andreandyp/plataforma-concept): web app creada con Vue.js, TypeScript y Vuetify.
 * [Dias](https://github.com/andreandyp/dias): app de Android creada con Kotlin y Android Jetpack.
 
